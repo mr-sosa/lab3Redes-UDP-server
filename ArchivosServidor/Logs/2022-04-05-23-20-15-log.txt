@@ -2,20 +2,20 @@
  Nombre del archivo: sample1.txt - Tamanio: 13B
  Conexion con el cliente: 1
  La entrega del archivo fue: Exitoso
- El tiempo de ejecucion fue: 7 ms
- Nombre del archivo: sample1.txt - Tamanio: 13B
- Conexion con el cliente: 4
- La entrega del archivo fue: Exitoso
- El tiempo de ejecucion fue: 2 ms
+ El tiempo de ejecucion fue: 0 ms
  Nombre del archivo: sample1.txt - Tamanio: 13B
  Conexion con el cliente: 2
  La entrega del archivo fue: Exitoso
- El tiempo de ejecucion fue: 1 ms
+ El tiempo de ejecucion fue: 0 ms
  Nombre del archivo: sample1.txt - Tamanio: 13B
  Conexion con el cliente: 3
  La entrega del archivo fue: Exitoso
- El tiempo de ejecucion fue: 12 ms
+ El tiempo de ejecucion fue: 0 ms
+ Nombre del archivo: sample1.txt - Tamanio: 13B
+ Conexion con el cliente: 4
+ La entrega del archivo fue: Exitoso
+ El tiempo de ejecucion fue: 0 ms
  Nombre del archivo: sample1.txt - Tamanio: 13B
  Conexion con el cliente: 5
  La entrega del archivo fue: Exitoso
- El tiempo de ejecucion fue: 31 ms
+ El tiempo de ejecucion fue: 0 ms

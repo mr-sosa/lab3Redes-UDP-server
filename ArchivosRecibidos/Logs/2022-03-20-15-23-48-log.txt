@@ -1,5 +1,0 @@
-
- Nombre del archivo: file250MB.txt - Tamanio: 250MB
- Conexion con el cliente: 1
- La entrega del archivo fue: Exitoso
- El tiempo de ejecucion fue: 111670 ms
